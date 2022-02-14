@@ -3,5 +3,10 @@ public class git2{
 		System.out.println("s");
 		system.out,println("sameeemushir aptel");
 		asssufaga
+		sfafgafgauifh 
+		efgbefgybf
+		feiewrtgweyurt
+		gequytrgewtrg
+		tgheqtgtrg
 	}
 }
